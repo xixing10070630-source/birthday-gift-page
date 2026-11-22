@@ -1,0 +1,6 @@
+{
+  "name": "杨燕灵的 12.01 梦幻生日小天地",
+  "description": "献给杨燕灵的 12 月 1 日生日礼物——包含互动吹蜡烛许愿、澳门到济州岛旅行足迹地图、3D 翻转拍立得照片墙，以及梦幻扭蛋机、接礼物和显影刮刮卡游乐场。",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
